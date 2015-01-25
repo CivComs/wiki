@@ -36,4 +36,4 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-8102379-3'
+        tracking_id : ''
