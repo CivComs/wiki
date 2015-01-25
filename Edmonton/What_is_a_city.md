@@ -1,0 +1,102 @@
+---
+title: Edmonton What is a city
+permalink: /Edmonton/What_is_a_city/
+---
+
+• Is my friend in Sweden part of my city?
+
+• What do you want to do in your city?
+
+• If I don’t want to be a political junkie…so what. Why do we do these things? Relationship to public institutions.
+
+• What would change about your neighbourhood
+
+• Focus on connections – does that move to collaboration?
+
+• Connection to people and city
+
+• Do you feel connected and part of the city. The Olympics started that feeling.
+
+• In any given city – what is the “feeling” or connection in that city?
+
+• Not-for-profit = group together like minded organizations. Facilitate that relationship. What’s important to them is what problems with gov’t has now, funding leakages, etc. so that new companies can be started to use that leakage.’
+
+• What’s a city: creating a platform to help define what that city is, solve community problems and facilitate change.
+
+• Create values.
+
+• Accountability
+
+• Not just the gov’t telling you what’s important – partnership – work together to solve problems/move forward
+
+• Being connected – that’s what the public wants
+
+• Physical getting together is important = public space is enriched by technology but need to get physical and get an “lived experience”
+
+• Not just making the technology happen
+
+• As a citizen what I want from open information is to be armed with info so I can challenge what I’m being told. Eg: changing speed zone in my neighborhood – what’s the data that supported/caused that change? It may or may not be correct. Planners should get input from the community to get better understanding of the community needs.
+
+• Shared references between the groups – your view of the world vs my view of the world
+
+• Medium for citizens to share their knowledge of their community. Social media is a way to share that information/knowledge.
+
+• Edmonton doesn’t have a common area for public to congregate – therefore knowledge needs to be shared virtually.
+
+• Remove barriers
+
+• We’re all different from each other – we may have similar ideas though
+
+• We’ve created neighborhoods that have no personalities
+
+• We want to discover something new – we want to have new experiences (push not pull) – to find unique gems that we weren’t familiar with before
+
+• How do we understand the different types of experiences that people want to have? What kinds of things are important to the residents – can we do that via open gov’t? the city could take a role in enabling a better understanding of the city for residents.
+
+• Gov’t should increase awareness and promote accessibility. For all people not just people who have a car. Allowing them to have that choice. Customized delivery of services depending on their needs.
+
+• Transit: travelling on a Saturday is challenging.
+
+• Unite communities around commonalities not just the physical areas. People are changing the definition of community for them,
+
+• Have information city to city to look at. Eg: snow removal – get public input.
+
+• Public wants to know how city $$ is spent. Would like to know how they are solving problems.
+
+• Shared awareness = objectivity. Gov’t may not always be perceived as being straight up with the citizens. Citizens want the data so they can make their own decisions.
+
+• Edmonton benefits from having a strong community league. But the community leagues don’t have access to the data for their community so that they an make informed decisions/react.
+
+• We have gov’ts that have cross purposes – gov’t, school boards. Closing down school – if we had the information we could “hold their feet to the fire” to question their decisions.
+
+• Families that talk together are stronger - think of the City of Edmonton as a family – the more they talk together the stronger they’ll be.
+
+• Work together to resolve problems.
+
+• How do we change how people think about problems?
+
+• Sometimes there are too many ways to contact gov’t – too many people / fingers pointing.
+
+• Multi-generational = the city needs to have multiple ways to provide services to citizens. Meaning senior citizens have different ways their want their data than Gen X…different methods, different data, etc.
+
+• ALSO citizens are from multiple social standings that the city needs to understand and serve – from street people to the very wealthy who have tons of technology at their fingertips.
+
+• Cities should do what communities care about – this should be a primary function. Ex: green areas – promote differences don’t just try to make them all the same.
+
+Citizen Experience & Open Gov’t
+
+• See Library – browse catalogs, \# copies, choose where to pick up book, read reviews. This is what the city should have.
+
+• Not just the website – it’s how the library is delivering their services.
+
+• Set of patterns/cultures that Libraries have (patrons not users) – positive experience. That would be nice to have in the city.
+
+• Libraries – used to be physical, now virtual. DVD’s = high volume. Books was slowing down. Library and it’s role as a community hub = Librarian’s role is connecting people to the information. Toronto Library – amazing space…people love to be there. Their job is connect people to information.
+
+• Reclaim parks and other spaces that can be used by communities. Some communities are more active than others.
+
+• However – the City of Edmonton is a better place than many other cities (eg: cities in Europe that don’t have parks, free libraries, etc.)
+
+• We’re being influenced by the world around us – if we have a progressive technology city (eg: open data) we could be seen as a “Have” city that lead.
+
+• What defines us as people is the tools we use – if we try a tool and it doesn’t work for us we’ll stop using it. Therefore, we need to try, try, try.
