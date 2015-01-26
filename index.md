@@ -5,7 +5,9 @@ permalink: /
 
 **Coordinating Open Technology among Public Agencies**
 
-**Civic Commons** is an effort to assist public agencies in the adoption of collaborative systems that are more open to engagement with those both inside and outside an agency. Technology can make easier for leaders to help make that adoption happen, but Technology does not replace that Leadership. Civic Commons provides infrastructure, knowledge, and toolsets to government entities, and encourages the development of shared "[civic technologies](/Civic_Software "wikilink")" and protocols as well as supplies optional technical infrastructure (such as data and project hosting) as needed.
+The **Civic Commons Wiki** is a collaborative encyclopedia documenting best-practices and open standards for file formats, APIs, agile development processes, open source software, and supporting policies and licenses in the civic sector. 
+
+Civic Commons was originally a partnership between [OpenPlans](http://www.openplans.org) and [Code for America](http://www.codeforamerica.org). As of 2015, neither organization is affiliated with Civic Commons - it is an entirely community run resource.
 
 
 ### Policy & Guidelines
