@@ -1,6 +1,7 @@
 ---
 title: Civic Commons Wiki
 permalink: /
+redirect_from: "/Civic_Commons_Wiki"
 ---
 
 **Coordinating Open Technology among Public Agencies**
