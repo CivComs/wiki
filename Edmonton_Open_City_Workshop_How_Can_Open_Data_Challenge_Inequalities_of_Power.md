@@ -1,6 +1,6 @@
 ---
 title: Edmonton Open City Workshop - How Can Open Data Challenge Inequalities of Power?
-permalink: /Edmonton_Open_City_Workshop:_How_Can_Open_Data_Challenge_Inequalities_of_Power/
+permalink: /Edmonton_Open_City_Workshop_How_Can_Open_Data_Challenge_Inequalities_of_Power/
 ---
 
 Forms of an open data regime
