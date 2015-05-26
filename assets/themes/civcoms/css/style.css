@@ -64,6 +64,10 @@ header .navbar-nav > li > a:hover {
   background-color: #414141;
 }
 
+#page-header {
+  border-top : 1px solid #e3e3e3;
+}
+
 #page-header h2 {
   font-family: 'Titillium Web', sans-serif;
   font-weight : bold;
