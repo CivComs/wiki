@@ -28,7 +28,7 @@ permalink: /Open_Data_Guidelines/
 #### Implementation
 
 -   [Open Data Handbook - OKFN](http://opendatahandbook.org/)
--   [Open Data Guide - Mark Headd)(http://opendata.guide/)
+-   [Open Data Guide - Mark Headd](http://opendata.guide/)
 -   [Open Data Field Guide - Socrata](http://www.socrata.com/open-data-field-guide/)
 -   [DataSF Resources](http://datasf.org/resources/)
 -   [Philadelphia Open Data Guidebook](https://docs.google.com/document/d/1Kd4AOoRG8q18PVZ0JMusgKWJmgjrWvv3iTdKUjLEdT4/edit) (2013)   
