@@ -27,10 +27,14 @@ permalink: /Open_Data_Guidelines/
 
 #### Implementation
 
--   [Philadelphia Open Data Guidebook](https://docs.google.com/document/d/1Kd4AOoRG8q18PVZ0JMusgKWJmgjrWvv3iTdKUjLEdT4/edit) (2013)
 -   [Open Data Handbook - OKFN](http://opendatahandbook.org/)
+-   [Open Data Guide - Mark Headd)(http://opendata.guide/)
 -   [Open Data Field Guide - Socrata](http://www.socrata.com/open-data-field-guide/)
+-   [DataSF Resources](http://datasf.org/resources/)
+-   [Philadelphia Open Data Guidebook](https://docs.google.com/document/d/1Kd4AOoRG8q18PVZ0JMusgKWJmgjrWvv3iTdKUjLEdT4/edit) (2013)   
+-   [Open Data Playbook for Government - GovLoop](https://www.govloop.com/resources/the-open-data-playbook-for-government/)
 -   [Guidelines for different levels of government - Sunshine Review](http://sunshinereview.org/index.php/Sunshine_Review)
+-   [Data on the Web Best Practices - W3C](http://www.w3.org/TR/dwbp/)
 -   [Publishing Open Government Data - W3C](http://www.w3.org/TR/gov-data/)
 -   [Putting Government Data online - Tim Berners-Lee](http://www.w3.org/DesignIssues/GovData)
 -   [Reporting of Government Finances: Recommendations - OKFN](http://opengovernmentdata.org/finances/)
