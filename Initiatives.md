@@ -148,7 +148,8 @@ Open Data Initiatives
 
 The list below is for efforts which attempt to list links to all open government data catalogs - similar to the list above. Most of these list the same information, but are currently not well coordinated. **The Civic Commons staff recommends that DataCatalogs.org be treated as the canonical list** and we encourage you to make use of that listing and to add new data catalogs there. We will be helping to consolidate existing listings at DataCatalogs.org
 
--   **[DataCatalogs.org](http://DataCatalogs.org) using CKAN**
+-   [Open Data Inception](http://opendatainception.io/) (1600 portals as of 2016)
+-   [DataCatalogs.org](http://DataCatalogs.org) using CKAN
 -   [OpenGeoCode Catalog of Open Data Portals](http://www.opengeocode.org/opendata/)
 -   [Data.gov Community](http://www.data.gov/opendatasites)
 -   [Open Data @ CTIC](http://datos.fundacionctic.org/sandbox/catalog/faceted/)
