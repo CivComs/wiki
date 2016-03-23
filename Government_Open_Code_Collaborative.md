@@ -1,9 +1,10 @@
 ---
 title: Government Open Code Collaborative
 permalink: /Government_Open_Code_Collaborative/
+redirect_from: "/GOCC"
 ---
 
-*The following is pulled from the [P2P Foundation wiki page on GOCC](http://p2pfoundation.net/Government_Open_Code_Collaborative) maintaing a Creative Commons Attribution-ShareAlike 3.0 Unported License.*
+*The following is pulled from the [P2P Foundation wiki page on GOCC](http://p2pfoundation.net/Government_Open_Code_Collaborative) maintaining a Creative Commons Attribution-ShareAlike 3.0 Unported License.*
 
 The GOCC was a voluntary collaboration between public sector entities and non-profit academic institutions created for the purpose of encouraging the sharing, at no cost, of computer code developed for and by government entities where the redistribution of this code is allowed.
 
