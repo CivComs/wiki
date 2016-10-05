@@ -4,7 +4,7 @@ permalink: /Open_Data_Guidelines/
 ---
 
 ### Principles
-
+-   [International Open Data Charter](http://opendatacharter.net/principles/) (2015)
 -   [Open Gov Data - Joshua Tauberer](http://opengovdata.io/) (2012)
 -   [Key Principles of Government Information by American Library Association](http://www.ala.org/advocacy/govinfo/keyprinciples) (June 14, 2011)
 -   [Ten Open Data Principles - Sunlight Foundation](http://sunlightfoundation.com/policy/documents/ten-open-data-principles/)([PDF](http://assets.sunlightfoundation.com.s3.amazonaws.com/policy/papers/Ten%20Principles%20for%20Opening%20Up%20Government%20Data.pdf)) (2010)
